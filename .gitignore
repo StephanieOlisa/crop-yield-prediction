@@ -5,3 +5,10 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 .streamlit/secrets.toml
+.venv/
+.venv312/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
