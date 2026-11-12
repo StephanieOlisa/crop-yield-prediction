@@ -98,21 +98,21 @@ streamlit run app.py
 
 5. Open the local URL displayed in your terminal to access the application.
 
-## Application Screenshots
+# Application Screenshots
 
-# Crop Yield Prediction
+## Crop Yield Prediction
 
 <img width="959" height="445" alt="yield_prediction" src="https://github.com/user-attachments/assets/44bb4fc9-27f6-4184-8ccc-0ef0ba6a349e" />
 
-# Crop Pest Guide
+## Crop Pest Guide
 
 <img width="959" height="440" alt="crop_pest_guide" src="https://github.com/user-attachments/assets/f4a369ac-d5c3-4cde-b4b5-34d27adfb037" />
 
-# Planting Calendar
+## Planting Calendar
 
 <img width="959" height="442" alt="planting_calendar" src="https://github.com/user-attachments/assets/97d8adb9-9e52-4c25-a8e2-53cadb302245" />
 
-# Yield Reference Guide
+## Yield Reference Guide
 
 <img width="959" height="440" alt="yield_reference" src="https://github.com/user-attachments/assets/00ccb8be-55c7-41b0-84d0-e1b5f1bdb0c3" />
 
